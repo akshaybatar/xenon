@@ -1,1 +1,1 @@
-Xenon is a mini php framework which is MVC pattern using php-oops concepts.
+Xenon is a mini PHP framework that follows the MVC pattern, utilizing PHP's object-oriented programming (OOP) concepts.
